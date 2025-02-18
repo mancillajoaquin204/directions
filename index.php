@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://qdwefds.z9.web.core.windows.net/");
+header("Location: https://maps.google.com/");
  
 exit;
 ?>
