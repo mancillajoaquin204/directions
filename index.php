@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://fashionnova.com");
+header("Location: https://mychart.org");
  
 exit;
 ?>
